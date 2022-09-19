@@ -7,6 +7,7 @@ https://user-images.githubusercontent.com/14131412/191021588-59271b6a-d9f5-4b0c-
 Watch the full video [here](https://youtu.be/8nQEpu8DOmk)
 
 Deployment for Oculus Rift
+
 Requires Unity 2020.3.32f1 with Android Build Support module.
 
 ![image](https://user-images.githubusercontent.com/14131412/191026316-218bea66-ad87-46eb-aa78-a01457a1dd0d.png)
