@@ -1,5 +1,6 @@
 # VR-Fashion-Experience-Unity
 
+VR Fashion Experience created along the assignment lines for CM4124 - Immersive Technology using Unity and C# language. The deployment application had to be used alongside an Oculus Rift device. Here is a brief video explaining what the requirements were, which ones were met and which raised problems that were encountered during development.
 
 https://user-images.githubusercontent.com/14131412/191021588-59271b6a-d9f5-4b0c-8f16-8973f3b8b372.mp4
 
